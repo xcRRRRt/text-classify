@@ -1,0 +1,11 @@
+vocab_size: 8608
+embedding_dim: 384
+num_layers: 3
+hidden_dim: 384
+num_classes: 3
+lr: 0.0001
+cm: true
+idx_to_label:
+  0: 饮食
+  1: 医疗
+  2: 运动
